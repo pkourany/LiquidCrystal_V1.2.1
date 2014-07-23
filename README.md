@@ -2,7 +2,7 @@ fmalpartida New LiquidCrystal Library
 =====================================
 Adapted for Spark Core by Paul Kourany, July 2014
 
-// ---------------------------------------------------------------------------
+
 // Created by Francisco Malpartida on 20/08/11.
 // Copyright 2011 - Under creative commons license 3.0:
 //        Attribution-ShareAlike CC BY-SA
@@ -28,4 +28,4 @@ Adapted for Spark Core by Paul Kourany, July 2014
 //
 // 2012.03.29 bperrybap - changed comparision to use LCD_5x8DOTS rather than 0
 // @author F. Malpartida - fmalpartida@gmail.com
-// ---------------------------------------------------------------------------
+
